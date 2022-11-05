@@ -1,6 +1,13 @@
-# React Pokedex
+# API Pokémon
 
 ## Check it out -> https://react-pokedex-7fe58.web.app
+
+>by Valentina Orjuela Tapia
+
+Pokemon API, where you have to log in before entering and the abilities of each pokemon are shown.
+
+## Video
+[![Alt text](https://img.youtube.com/vi/A06V0ePg25o/0.jpg)](https://www.youtube.com/watch?v=A06V0ePg25o)
 
 License
 MIT License License: MIT
